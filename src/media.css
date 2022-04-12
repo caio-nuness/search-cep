@@ -1,0 +1,27 @@
+@media (max-width: 320px) {
+    .box {
+        width: auto;
+    }
+
+    .input {
+        width: 80%;
+    }
+
+    .button {
+        width: 70px;
+        height: 70px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    p > strong {
+        font-size: 12px;
+    }
+}
